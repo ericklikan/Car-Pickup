@@ -1,5 +1,5 @@
 # Car-Pickup
-Computer Engineering - Car that follows a black line and picks up a ball (coded in C for Android)
+Computer Engineering - Car that follows a black line and picks up a ball (coded in C for Arduino)
 
 TEJ4M1
 Erick Leon
